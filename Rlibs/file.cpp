@@ -2,7 +2,7 @@
 
 #include <windows.h>
 
-// 
+// //
 
 RLIBS_API bool Rlibs::FileExistsA(__rip const char *szPath)
 {
